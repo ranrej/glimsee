@@ -1,0 +1,17 @@
+Project: Glimsee – Life Goals Sharing Web Application
+
+Team Members and Contributions (Equal Contribution):
+
+1. Elaine Nankanja  
+   - Contributed equally to the planning, UI/UX design, frontend development using EJS/CSS/JS, and testing of features.
+
+2. Afnan Siddiqui  
+   - Contributed equally to backend development with Node.js/Express.js, database schema modeling with MongoDB, and route handling.
+
+3. AbdulRahim Mohsin  
+   - Contributed equally to authentication system, session handling, frontend components, and integration of post features.
+
+4. Rania Rejdal  
+   - Contributed equally to implementing user profile/dashboard, explore feature, comment/like functionality, and documentation.
+
+Each member participated collaboratively in team discussions, design decisions, and code reviews to ensure the successful delivery of the Glimsee web application.
